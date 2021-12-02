@@ -13,3 +13,4 @@ CAD project of a board to upload programs to the ESP 8266 family boards
 ## Tested Boards
 - ESP8266-01
 - ESP8266-12S
+- ESP8266-12E ( add: connect GPIO15 TO ground through a 300~10k resistor).
